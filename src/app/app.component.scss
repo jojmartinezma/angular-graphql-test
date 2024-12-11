@@ -1,0 +1,23 @@
+.example-card {
+    max-width: 400px;
+    display: inline-flex;
+    justify-content: center  !important;
+    align-items: center !important;
+  }
+  
+  .example-header-image {
+    background-size: cover;
+  }
+
+  .container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .formInput{
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+  }
+
